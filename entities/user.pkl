@@ -1,0 +1,6 @@
+person { 
+  profile {
+    name = "string"
+    phone = "int"
+  }
+}

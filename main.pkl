@@ -1,0 +1,4 @@
+
+app = "Some app"
+
+entities = import*("entities/*.pkl")

@@ -1,0 +1,13 @@
+{
+  "app": "Some app",
+  "entities": {
+    "entities/user.pkl": {
+      "person": {
+        "profile": {
+          "name": "string",
+          "phone": "int"
+        }
+      }
+    }
+  }
+}

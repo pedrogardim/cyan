@@ -3,4 +3,4 @@ build_pkl:
 
 
 run: build_pkl
-	go run cyan/main.go
+	go run main.go

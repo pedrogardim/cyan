@@ -2,3 +2,8 @@
 app = "Some app"
 
 entities = import*("entities/*.pkl")
+
+mongo {
+    uri = "mongodb://localhost:27017"
+    db = "cyan"
+}
